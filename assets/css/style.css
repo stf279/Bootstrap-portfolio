@@ -1,0 +1,13 @@
+h3 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    display: block;
+}
+
+ul li {
+    float: left;
+    padding: 5px;
+}
