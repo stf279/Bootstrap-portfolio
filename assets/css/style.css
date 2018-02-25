@@ -1,5 +1,21 @@
+h1, h3 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    
+}
+
+h1 {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    float: left;
+    padding: 25px;
+}
+
 h3 {
+    color: #4aaaa5;
+    border-bottom: solid;
+    border-bottom-color: #dddddd;
     text-align: center;
+
 }
 
 ul {
