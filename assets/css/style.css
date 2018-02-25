@@ -1,29 +1,30 @@
-h1, h3 {
+.about {
+    
     font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    background-color: #ffffff;
+    border-bottom: solid;
+    border-bottom-color: #dddddd;
     
 }
 
-h1 {
-    color: #ffffff;
-    background-color: #4aaaa5;
-    float: left;
-    padding: 25px;
-}
-
-h3 {
+.contact {
+    
+    font-family: 'Georgia', Times, Times New Roman, serif;
     color: #4aaaa5;
     border-bottom: solid;
     border-bottom-color: #dddddd;
-    text-align: center;
-
+    
 }
 
 ul {
+
     list-style-type: none;
     display: block;
 }
 
 ul li {
+
     float: left;
     padding: 5px;
 }
